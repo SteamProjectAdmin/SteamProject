@@ -1,7 +1,7 @@
 # STEAM: Open Scale Model System Automation
 
 ## What is STEAM?
-STEAM is an open source project addressed to design and develop architectures, protocols, software and hardware for automating (control and monitor) scale model systems, as trains can be, but not limited to them.
+STEAM is an open source (MIT) project addressed to design and develop architectures, protocols, software and hardware for automating (control and monitor) scale model systems, as trains can be, but not limited to them.
 
 ## Wait, it already exists. Why to reinvent the wheel?
 In terms of digital automation, systems as DCC (based on power line communication) were fantastic twenty years ago. Since then different radio communication technologies have been developed, allowing scale model digital automation going one step ahead. Though some emerging solutions have arised in the last times (as Roco-Fleischmann z21), most are brand property, ie not open, therefore evolving against the usual current of going "open" that you can find in hardware and software. That is the reason why STEAM makes sense.
