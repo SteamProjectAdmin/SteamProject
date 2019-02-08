@@ -1,4 +1,4 @@
-Software/gateways. Readme.
+Software/gateway. Readme.
 
 This directory stores software developments addressed to manage gateways. A gateway is a device that allows a controller accessing to the litems (layout items) in its network in a network technology agnostic way.
 
