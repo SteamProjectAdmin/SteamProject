@@ -10,4 +10,4 @@ In terms of digital automation, systems as DCC (based on power line communicatio
 There are two main information sources: One is the GitHub repository wiki (right [here](https://github.com/SteamProjectAdmin/SteamProject/wiki)) and the other is the project's [blog ](https://steam-project.blogspot.com/). The wiki contains the official documentation whereas the blog contains (big surprise) the project bitacore.
 
 ## This is the Holy Grail I've been searching for years. How can I participate?
-If you are good in hardware electronics or firmware/software develpment and have free time for investing in this project, contact the project [administrator](mailto:)
+If you are good in hardware electronics or firmware/software develpment and have free time for participating on this project, contact the project [administrator](mailto:) to become project contributor. Welcome!!!
