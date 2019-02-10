@@ -1,4 +1,4 @@
-Software/gateway/802.11.4/raspbian/colorado. Readme.
+Software/gateways/802.11.4/raspbian/colorado. Readme.
 
 This directory stores the Colorado Steam gateway software project, a set of developments addressed to manage gateways running on Raspbian operating system whose underlying network technology was based on IEEE 802.11.4. Its main features are:
 
