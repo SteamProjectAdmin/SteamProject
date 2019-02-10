@@ -1,4 +1,4 @@
-Software/gateway/802.11.4. Readme.
+Software/gateways/802.11.4. Readme.
 
 This directory stores software developments addressed to manage gateways whose underlying network technology was based on IEEE 802.11.4.
 
