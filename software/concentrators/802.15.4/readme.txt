@@ -1,6 +1,6 @@
-Software/concentrators/802.11.4. Readme.
+Software/concentrators/802.15.4. Readme.
 
-This directory stores software developments addressed to manage concentrators whose underlying network technology was based on IEEE 802.11.4.
+This directory stores software developments addressed to manage concentrators whose underlying network technology was based on IEEE 802.15.4.
 
 This directory organizes its information in a directory structure with these levels:
 
