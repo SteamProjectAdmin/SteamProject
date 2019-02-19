@@ -1,4 +1,4 @@
-Software/litems/802.11.4. Readme.
+Software/litems/802.15.4. Readme.
 
 This directory stores software developments addressed to manage litems based on IEEE 802.11.4 network technology.
 
