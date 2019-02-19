@@ -1,9 +1,9 @@
-Software/litems/802.11.4/ti-cc26x2-lp/elbert. Readme.
+Software/litems/802.15.4/ti-cc26x2-lp/elbert. Readme.
 
-This directory stores the (Mount) Elbert Steam litems software project, a set of developments addressed to implement experimental litems running on the Texas Instruments CC26x2 Launchpad and using 802.11.4 as communication technology. Its main features are:
+This directory stores the (Mount) Elbert Steam litems software project, a set of developments addressed to implement experimental litems running on the Texas Instruments CC26x2 Launchpad and using 802.15.4 as communication technology. Its main features are:
 
   - Source code developed in C running on TIRTOS (Texas Instruments RealTime Operating System) operating system
-  - IEEE 802.11.4 for connecting to the gateway
+  - IEEE 802.15.4 for connecting to the gateway
   - Different profiles developed
   - Fully experimental
 
