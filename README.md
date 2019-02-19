@@ -8,7 +8,7 @@ In terms of digital scale-model train automation, systems as DCC (based on power
 About diy robotics, another area of application of STEAM project, great improvements in hardware and software consolidation has been done in the last years, arising hardware platforms as Arduino and its related Arduino IDE with great acceptance. However few efforts has been doone in upper layers in order to unify the interface between end end user and the robot, that is supposed to run full anonimously and just getting settings changes when the robot is offline. In this area, a protocol addressed to interact with robots seems to be necessary.
 
 ## Sound interesting. Where can I find more information?
-There are two main information sources: One is the GitHub repository wiki (right [here](https://github.com/SteamProjectAdmin/SteamProject/wiki)) and the other is the project's [blog ](https://steam-project.blogspot.com/). The wiki contains the official documentation whereas the blog contains (big surprise) the project bitacore.
+There are two main information sources: One is the GitHub repository [wiki](../../wiki) and the other is the project's [blog ](https://steam-project.blogspot.com/). The wiki contains the official documentation whereas the blog contains (big surprise) the project bitacore.
 
 ## This is the Holy Grail I've been searching for years. How can I participate?
 If you are good in hardware electronics or firmware/software develpment and have free time for participating on this project, contact the project [administrator](mailto:steamproject.adm@gmail.com) to become project contributor. Welcome!!!
